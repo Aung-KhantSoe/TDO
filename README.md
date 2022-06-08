@@ -1,4 +1,4 @@
-Moodle Mobile
+TDO
 =================
 
 This is the primary repository of source code for the official TDO app.
